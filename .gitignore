@@ -1,0 +1,9 @@
+/.idea
+/vendor
+.phpunit.result.cache
+npm-debug.log
+yarn-error.log
+/.idea
+/bak
+/hosts
+composer.lock

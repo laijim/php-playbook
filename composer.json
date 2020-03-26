@@ -1,0 +1,22 @@
+{
+  "name": "laijim/playbook",
+  "authors": [
+    {
+      "name": "JIM LAI",
+      "email": "laijim@outlook.com"
+    }
+  ],
+  "require": {
+    "symfony/yaml": "^5.0",
+    "symfony/filesystem": "^5.0",
+    "ramsey/uuid": "^4.0",
+    "league/flysystem": "^1.0",
+    "nesbot/carbon": "^2.32",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Laijim\\Playbook\\": "src/"
+    }
+  }
+}
